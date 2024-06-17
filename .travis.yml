@@ -1,0 +1,11 @@
+dist: focal
+language: shell
+install: skip
+jobs:
+  include:
+    - script: sleep 120
+    - script: sleep 121
+    - script: sleep 122
+    - script: sleep 123
+    - script: sleep 124
+    - script: sleep 125
