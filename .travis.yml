@@ -1,4 +1,4 @@
-dist: focal
+os: windows
 language: shell
 install: skip
 jobs:
